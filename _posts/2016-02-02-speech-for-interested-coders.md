@@ -1,6 +1,4 @@
----
-title: Speech for Interested Coders
----
+title: Letter to aspiring/newbie developers
 
 
 I have been where you are, I know what your thinking, seriously.  I know that you are almost paralized to make a change out of what you think is comfortable to you.  Attending Code School would be a huge decision, as well as a huge life change.  I was worried about making a change this big, a change that would affect not just myself but my family as well.  We turned our family upside down to get me to leave my job and persue a career in a direction that I chose for the first time in my life.  I was afraid I wasnt smart enough, I was worried I couldnt do it.  
